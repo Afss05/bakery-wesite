@@ -1,0 +1,101 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.aboutimg{
+    width: 100%;
+    background-image: url(image/img.jpg);
+    opacity: 0.7;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.aboutimg h2{
+    color: #fff;
+    text-align: center;
+    padding-top: 180px;
+    font-size: 50px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+}
+
+.con1{
+    display: flex;
+    width: 50%;
+}   
+
+.img_group img{
+    height: 350px;
+    width: 230px;
+    border-radius: 20px;
+}
+
+.btm{
+    margin-top: 0;
+}
+
+.int{
+    box-shadow: 130px 100px 0px orange; 
+    border-radius: 20px;
+}
+
+.btm2{
+    margin-top: 180px;
+    margin-left: 30px;
+}
+
+.con2{
+    width: 50%;
+    text-align: start;
+}
+.con2 h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.text{
+    font-family: 'Playfair Display', serif;;
+    font-size: 18px;
+}
+
+.subcon{
+    display: flex;
+    margin-top: 20px;
+    text-align: start;
+}
+
+.product{
+    text-align: start;
+    margin-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.secpro{
+    margin-left: 150px;
+}
+
+.product span{
+    background-color: orange;
+    border-radius: 10px;
+    width: 20px;
+}
+
+button{
+    background-color: orange;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+    border-style: none;
+    color: #fff;
+}
+
+.fstrt{
+    padding-top: 150px;
+}

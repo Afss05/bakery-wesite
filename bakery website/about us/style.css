@@ -22,7 +22,7 @@
 .container{
     display: flex;
     justify-content: space-between;
-    height: 500px;
+    height: 400px;
 }
 
 .con1{
@@ -97,5 +97,5 @@ button{
 }
 
 .fstrt{
-    padding-top: 150px;
+    padding-top: 200px;
 }
